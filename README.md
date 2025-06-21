@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Ask me about Data Engineering,Analytics Engineering and Data Science.**
 
-- 📫 How to reach me **kamandesimone@gmail.com**
+- 📫 Reach me at  **kamandesimone@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
