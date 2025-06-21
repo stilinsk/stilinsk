@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SIMON NGUGI</h1>
-<h3 align="center">I am a results-driven Analytics and Data Engineer, harnessing over 3 years of invaluable experience. With a strong foundation in my field and in the field of statistics and finance, I bring a unique blend of technical expertise and exceptional communication skills.</h3>
+<h3 align="center">I am a results-driven Analytics and Data Engineer, harnessing  years of invaluable experience. With a strong foundation in my field and in the field of statistics and finance, I bring a unique blend of technical expertise and exceptional communication skills.</h3>
 
 - 💬 Ask me about **Ask me about Data Engineering,Analytics Engineering and Data Science.**
 
